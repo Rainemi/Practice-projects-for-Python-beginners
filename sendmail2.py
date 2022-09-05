@@ -1,14 +1,17 @@
-
+#the  algorithm to wrie a sendmail program is listed below as comments
+#go over to your gmail and set up 2 factor authentification
+#generate app password
+#create the function to send mail 
 
 from email.message import EmailMessage
 import smtplib
 import ssl
 
-password = 'bklpvdekvtzaksjf'
+password = 'your password derived from app password'
 
-Email_sender = 'queenraine008@gmail.com'
+Email_sender = ''
 Email_password = password
-Email_reciever = 'vakkefegne@vusra.com'
+Email_reciever = ''
 
 subject = 'Reasons why you should workout'
 body = '''
