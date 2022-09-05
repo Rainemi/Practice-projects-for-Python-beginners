@@ -13,11 +13,9 @@ Email_sender = ''
 Email_password = password
 Email_reciever = ''
 
-subject = 'Reasons why you should workout'
+subject = 'Your mail subject'
 body = '''
-1. workout so as to build Muscle
-2. workout to stabilise your mental health
-3. workout to keep your organs from deteriorating 
+your content that you want to send 
 '''
 
 em = EmailMessage()
