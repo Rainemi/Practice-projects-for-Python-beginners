@@ -20,3 +20,6 @@ def resize_img(size1,size2):
 size1 = int(input("Enter width : "))
 size2 = int(input("Enter length : "))
 resize_img = (size1,size2)
+
+
+#still under review
