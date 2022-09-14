@@ -1,11 +1,10 @@
-#still under review
 
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
 x = [2,4,5]
 y = [2,5,8]
 
-plt.axis(x,y)
+plt.plot(x,y)
 
 plt.xlabel("x-axis")
 
