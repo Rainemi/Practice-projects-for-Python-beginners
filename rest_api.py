@@ -8,7 +8,7 @@ api_key = ''
 #http method to be used
 #GET
 #/movie/{movie_id}
-#https://api.themoviedb.org/3/movie/550?api_key=1543de06632fef3eb79d914b2add2f4c
+#https://api.themoviedb.org/3/movie/550?api_key=
 #to search for the movie /search/movie
 #version 3
 end_data = []
