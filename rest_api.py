@@ -1,7 +1,7 @@
 import requests
 from pprintpp import pprint
 import pandas as pd
-api_key = '1543de06632fef3eb79d914b2add2f4c'
+api_key = ''
 
 
 #endpoint/url
